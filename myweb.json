@@ -1,5 +1,6 @@
 {
-  "number1":5,
-  "number2":2,
-  "result":10
+    "operation": "multiplication",
+    "operands": [5, 7],
+    "result": 35
 }
+
