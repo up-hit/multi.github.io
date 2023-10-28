@@ -1,6 +1,5 @@
-{
-    "operation": "multiplication",
-    "operands": [5, 7],
-    "result": 35
-}
+<MultiplyRequest xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ReturnApi.Controllers">
+  <Number1>1</Number1>
+  <Number2>2</Number2>
+</MultiplyRequest>
 
