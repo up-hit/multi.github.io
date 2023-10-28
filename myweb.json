@@ -1,6 +1,6 @@
 {
-  "input1" : Number1,
-  "input2" : Number2 ,
+  "input1" : 1,
+  "input2" : 2 ,
   "operation" : "multiplication",
-  "operand": [Number1,Number2]
+  "operand": [1,2]
 }
